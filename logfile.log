@@ -1,0 +1,4 @@
+2022-11-04 15:11:36,007 INFO  [UsingXmlConfigurator] This is info message 
+2022-11-04 15:11:36,008 WARN  [UsingXmlConfigurator] This is warning message 
+2022-11-04 15:11:36,009 ERROR [UsingXmlConfigurator] This is error message 
+2022-11-04 15:11:36,009 FATAL [UsingXmlConfigurator] This is fatal message 
